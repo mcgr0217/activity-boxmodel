@@ -17,7 +17,6 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
-    
     font-size: 100%;
 }
 
@@ -99,7 +98,6 @@ p {
 
 figure {
     margin: 0 auto 1.5rem;
-    width= 100%;
 }
 
 figcaption {
